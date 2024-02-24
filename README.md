@@ -6,8 +6,6 @@
 - These device tree are used in Android Custom Rom.
 - I’m currently working at:
   <br>
-   **Pixel Experience [@PixelExperience](https://github.com/PixelExperience)**.
-  <br>
    **Paranoid Android [@AOSPA](https://github.com/AOSPA)**.
  
  - I am a University of Business Administration, but currently I am also acquiring basic knowledge in programming.
